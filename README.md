@@ -68,9 +68,9 @@ font-size:400%;
 
 <P>Color may be expressed as a named color or as an RGB value preceded by the octothorp (pound sign,#). No quotations are used for CSS color property values.</P>
 
-<H3 style="color:red;font-size:200%;">Paragraph Considerations</H3>
+<H3 style="color:red;font-size:200%;">response</H3>
 
-<P>When using P as a selector for paragraphs in CSS rules you must also close each HTML paragraph with the </P> or the CSS rule will not work.<P>
+<P>the tags that are affected are h2 p h3</P>
 
  
 
